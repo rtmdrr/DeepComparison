@@ -70,6 +70,23 @@ since epsilon > 0.5 we will claim that A is not better than B with significance 
 ```
 For more details about the meaning of the output please read our paper: Deep Dominance - How to properly compare deep neural models.
 
+### Citation
+If you make use of this code for research purposes, we'll appreciate citing the following:
+```
+@InProceedings{P,
+  author = 	"Dror, Rotem
+		and Shlomov, Segev
+		and Reichart, Roi",
+  title = 	"Deep Dominance - How to Properly Compare Deep Neural Models",
+  booktitle = 	"Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  year = 	"2019",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"",
+  location = 	"Florence, Italy",
+  url = 	""
+}
+```
+
 
 
 
