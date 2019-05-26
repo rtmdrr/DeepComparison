@@ -1,6 +1,9 @@
 # Deep Dominance - How to properly compare deep neural models
 
-This repository contains an implementation of a method for comparing between two deep neural models.
+This repository contains an implementation of a method for comparing between two deep neural models described in (Dror et al., 2019):
+
+"Deep Dominance - How to Properly Compare Deep Neural Models." Rotem Dror, Segev Shlomov and Roi Reichart. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL2019).
+
 Given two algorithms, each associated with a set of test-set scores, our goal is to determine which algorithm, 
 if any, is superior. The score distributions are generated when running two different DNNs with various 
 hyperparameter configurations and random seeds. This code implements a method for comparing between 
