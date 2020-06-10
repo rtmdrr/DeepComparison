@@ -67,7 +67,7 @@ def epsilon(dp):
     s = 0.0
     se = 0.0
     for p in np.arange(0, 1, dp):
-        temp = invF(p)-invG(p)
+        temp = invG(p)-invF(p)
         tempe = max(temp, 0)
         s = s+temp*temp*dp
         se = se+tempe*tempe*dp
