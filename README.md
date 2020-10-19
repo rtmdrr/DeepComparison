@@ -87,6 +87,9 @@ If you make use of this code for research purposes, we'll appreciate citing the 
 }
 ```
 
+## Contact Information
+This file and the code was written by Rotem Dror. The methods are described in the above paper [(Dror et al., 2019)](https://www.aclweb.org/anthology/P19-1266/). For questions please write to: rtmdrr@seas.upenn.edu
+
 
 
 
